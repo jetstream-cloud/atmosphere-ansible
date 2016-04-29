@@ -2,5 +2,5 @@
 - name: Playbook to install and configure vncserver 
   hosts: atmosphere
   roles:
-    # Requires ATMOUSERNAME and VNCLICENSE
-    - atmo-realvncserver
+    # Don't install realvnc cwhen using No VNC
+    # - atmo-realvncserver
