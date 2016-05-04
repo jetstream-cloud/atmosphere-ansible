@@ -3,4 +3,4 @@
   hosts: atmosphere
   roles:
     # Don't install realvnc cwhen using No VNC
-    - atmo-realvncserver
+    # - atmo-realvncserver

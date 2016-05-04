@@ -3,4 +3,4 @@
   hosts: atmosphere
   roles:
     # Requires ATMOUSERNAME
-    # - atmo-novnc
+    - atmo-novnc
