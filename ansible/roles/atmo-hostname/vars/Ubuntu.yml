@@ -1,3 +1,0 @@
----
-
-DHCP_DESTINATION: /etc/dhcp/dhclient-exit-hooks.d/hostname

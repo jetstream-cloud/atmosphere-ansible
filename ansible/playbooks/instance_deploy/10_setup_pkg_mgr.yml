@@ -1,8 +1,0 @@
----
-- name: Playbook updates package manager and installs atmosphere dependencies
-  hosts: atmosphere
-  roles:
-    - atmo-pre-setup
-    - atmo-ntp
-    - atmo-dhcp
-    - atmo-fail2ban
